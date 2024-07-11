@@ -17,6 +17,7 @@ The main goals of this project are:
 - `data/`: Contains the sample images to select the points, and the videos for the tracking.
 - `results/`: Contains tracking results withs images and videos (that are speed up).
 - `arnau_claramunt_short_project.pdf`: Contains the project report.
+- `short_project_statement.pdf`: It's the teachers statement and project objectives.
 
 ## Functionalities
 1. **Manual Selection of Key Points**: Allows the user to manually select key points on the first frame of the video or a reference image.
