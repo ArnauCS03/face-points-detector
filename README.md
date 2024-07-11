@@ -1,6 +1,6 @@
 # Face Points detector
 
-Project for a semi-automatic system to detect certain anatomical elements of a face from an image or video sequence using MATLAB. The elements to be detected are specified manually as key points in reference images and are subsequently tracked in a video sequence. This project was done for the subject VC (Computer Vision) at FIB - UPC Barcelona.
+Project for a semi-automatic system to detect certain anatomical elements of a face from an image or video sequence using MATLAB. The elements to be detected are specified manually as key points in reference images and are subsequently tracked in a video sequence. This project was done for the subject VC (Computer Vision) at FIB - UPC Barcelona. <br><br>
 
 ## Objectives
 The main goals of this project are:
@@ -31,7 +31,7 @@ The main goals of this project are:
 ## Usage
 1. **Initial Setup**:
    - Ensure MATLAB is installed on your system.
-   - Clone the repository and navigate to the `src` directory.
+   - Clone the repository and navigate to the `src/` directory.
 
 2. **Running the Code**:
    - Open `tracking.mlx` in MATLAB.
@@ -43,10 +43,10 @@ The main goals of this project are:
 
 4. **Testing and Evaluation**:
    - Use images and videos from `data/` to evaluate the system.
-   - Check the `results/` directory for output results and videos demonstrating the tracking.
+   - Check the `results/` directory for output results and videos demonstrating the tracking. <br><br>
 
 ## Report
-The `report/` directory contains a detailed project report (`project_report.pdf`) which includes:
+The `arnau_claramunt_short_project.pdf` file contains a detailed project report which includes:
 - A detailed explanation of the feature extraction method.
 - Results obtained from the test images.
 - Description of the functions implemented.
@@ -80,6 +80,16 @@ The `report/` directory contains a detailed project report (`project_report.pdf`
 ![Screenshot from 2024-06-16 01-25-06](https://github.com/ArnauCS03/face-points-detector/assets/95536223/68c13717-d761-4d85-bf8c-b284ae735431)
 
 ![Screenshot from 2024-06-16 01-25-48](https://github.com/ArnauCS03/face-points-detector/assets/95536223/7979bc59-6970-4a17-bf62-8d0d2d657b17)
+
+<br><br>
+### Tracking in videos:
+
+https://github.com/ArnauCS03/face-points-detector/assets/95536223/6f05c298-0082-4af2-93eb-be56207f2b7c
+
+https://github.com/ArnauCS03/face-points-detector/assets/95536223/82d784a6-0715-4ce4-adc6-3b8c96a2f46c
+
+
+https://github.com/ArnauCS03/face-points-detector/assets/95536223/e80374cc-befb-406c-8087-5f7f3afd0051
 
 
 
